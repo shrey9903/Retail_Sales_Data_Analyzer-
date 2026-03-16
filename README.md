@@ -60,34 +60,6 @@ The dataset contains retail transaction data with the following columns:
 
 ---
 
-## How to Run the Project
-
-### 1. Clone the repository
-
-```
-git clone https://github.com/your-username/retail-sales-analyzer.git
-```
-
-### 2. Navigate to the project folder
-
-```
-cd retail-sales-analyzer
-```
-
-### 3. Install required libraries
-
-```
-pip install pandas numpy matplotlib seaborn plotly
-```
-
-### 4. Run the Python script
-
-```
-python retail_analyzer.py
-```
-
----
-
 ## Example Analysis Output
 
 The program generates:
@@ -115,10 +87,6 @@ This project demonstrates:
 
 ## Author
 
-Shrey Patel
+Name:Shrey Patel
+Date: 16/03/2026
 
----
-
-## License
-
-This project is for educational purposes.
